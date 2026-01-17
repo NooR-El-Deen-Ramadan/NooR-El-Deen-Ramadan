@@ -20,7 +20,16 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,sql&theme=dark" />
+  <table align="center">
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=c&theme=dark" width="50" title="C" /></td>
+      <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50" title="C++" /></td>
+      <td><img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" title="Python" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" title="Java" /></td>
+      <td><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="50" title="Dart" /></td>
+      <td><img src="https://skillicons.dev/icons?i=sql&theme=dark" width="50" title="SQL" /></td>
+    </tr>
+  </table>
 </p>
 
 ### 🧰 Frameworks, Tools & IDEs
@@ -35,6 +44,10 @@
     </tr>
   </table>
 </p>
+
+**Additional Technologies**
+- SFML (C++ Game Development)  
+- JavaFX (Desktop Applications)  
 
 ---
 
