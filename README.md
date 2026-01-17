@@ -27,7 +27,6 @@
       <td><img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" title="Python" /></td>
       <td><img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" title="Java" /></td>
       <td><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="50" title="Dart" /></td>
-      <td><img src="https://skillicons.dev/icons?i=sql&theme=dark" width="50" title="SQL" /></td>
     </tr>
   </table>
 </p>
