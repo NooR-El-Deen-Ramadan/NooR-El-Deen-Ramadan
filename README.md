@@ -29,22 +29,27 @@
 
 ### 🧰 Frameworks, Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,flutter,git,oracle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=qt,flutter,git,oracle,androidstudio,netbeans&theme=dark" />
 </p>
 
+**Additional Technologies**
+- SFML (C++ Game Development)
+- JavaFX (Desktop Applications)
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/noor-al-deen-ramadan">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  <a href="mailto:nooraldeinrmadan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-
+<h3 align="center">
+⭐ If you like my work, consider starring my repositories!
+</h3>
