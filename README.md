@@ -44,9 +44,6 @@
   </table>
 </p>
 
-**Additional Technologies**
-- SFML (C++ Game Development)  
-- JavaFX (Desktop Applications)  
 
 ---
 
