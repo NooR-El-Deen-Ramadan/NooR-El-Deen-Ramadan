@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Cyberpunk GitHub Banner" />
-</p>
-
 <h1 align="center">
   Hi 👋, I'm Noor Al-Deen Ramadan
 </h1>
@@ -24,12 +20,12 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,dart,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,sql&theme=dark" />
 </p>
 
 ### 🧰 Frameworks, Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,flutter,git,oracle,androidstudio,netbeans&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=qt,flutter,git&theme=dark" />
 </p>
 
 **Additional Technologies**
@@ -46,6 +42,9 @@
   <a href="mailto:nooraldeinrmadan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/nooraldeinrmadan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -53,3 +52,4 @@
 <h3 align="center">
 ⭐ If you like my work, consider starring my repositories!
 </h3>
+s
