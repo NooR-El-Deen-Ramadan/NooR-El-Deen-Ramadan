@@ -13,7 +13,6 @@
 - 💻 Passionate about **Software Engineering & Mobile Development**
 - 🚀 Love building real-world applications
 - 🤝 Thrive in collaborative environments
-- 💬 Fun fact: I love building mini games and real-world apps
 
 ---
 
@@ -26,7 +25,7 @@
 
 ### 🧰 Frameworks, Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,flutter,git,vsstudio,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=qt,flutter,git,androidstudio,figma&theme=dark" />
 </p>
 
 **Additional Technologies**
