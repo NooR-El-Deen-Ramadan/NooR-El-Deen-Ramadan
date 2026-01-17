@@ -28,6 +28,10 @@
   <img src="https://skillicons.dev/icons?i=qt,flutter,git&theme=dark" />
 </p>
 
+**Additional Technologies**
+- SFML (C++ Game Development)
+- JavaFX (Desktop Applications)
+
 ---
 
 ## 🌐 Connect With Me
@@ -38,7 +42,7 @@
   <a href="mailto:nooraldeinrmadan@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" />
   </a>
-  <a href="https://github.com/nooraldeinrmadan">
+  <a href="https://github.com/NooR-El-Deen-Ramadan">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" />
   </a>
 </p>
