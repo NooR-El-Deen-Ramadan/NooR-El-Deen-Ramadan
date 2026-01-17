@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Cyberpunk GitHub Banner" />
+</p>
+
 <h1 align="center">
   Hi 👋, I'm Noor Al-Deen Ramadan
 </h1>
@@ -20,47 +24,32 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,dart,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,dart,sql&theme=dark" />
 </p>
 
 ### 🧰 Frameworks, Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,flutter,git,github,oracle,androidstudio,netbeans,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=qt,flutter,git,oracle,androidstudio,netbeans&theme=dark" />
 </p>
 
-**Additional Technologies:**
+**Additional Technologies**
 - SFML (C++ Game Development)
 - JavaFX (Desktop Applications)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoorDeeRamadan&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoorDeeRamadan&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorDeeRamadan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/noor-al-deen-ramadan">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 </p>
 
 ---
 
 <h3 align="center">
-⭐
+⭐ If you like my work, consider starring my repositories!
+</h3>
