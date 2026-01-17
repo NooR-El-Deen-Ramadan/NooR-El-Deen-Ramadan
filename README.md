@@ -25,12 +25,16 @@
 
 ### 🧰 Frameworks, Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,flutter,git,androidstudio,figma&theme=dark" />
+  <table align="center">
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=qt&theme=dark" width="50" title="Qt" /></td>
+      <td><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="50" title="Flutter" /></td>
+      <td><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" title="Git" /></td>
+      <td><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="50" title="Android Studio" /></td>
+      <td><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50" title="Figma" /></td>
+    </tr>
+  </table>
 </p>
-
-**Additional Technologies**
-- SFML (C++ Game Development)  
-- JavaFX (Desktop Applications)  
 
 ---
 
