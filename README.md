@@ -29,12 +29,9 @@
 
 ### 🧰 Frameworks, Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,flutter,git,oracle,androidstudio,netbeans&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=qt,flutter,git,oracle&theme=dark" />
 </p>
 
-**Additional Technologies**
-- SFML (C++ Game Development)
-- JavaFX (Desktop Applications)
 
 ---
 
@@ -50,6 +47,4 @@
 
 ---
 
-<h3 align="center">
-⭐ If you like my work, consider starring my repositories!
-</h3>
+
